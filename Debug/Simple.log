@@ -1,0 +1,5 @@
+﻿  Simple.cpp
+Simple.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  Simple.vcxproj -> E:\本科资料\大三下\图形学\exp\tuxing4\.\Debug\Simple.exe
+  Simple.vcxproj -> .\Debug\Simple.pdb (Full PDB)
